@@ -1,0 +1,15 @@
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/bin/Debug/net6.0/Code
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/bin/Debug/net6.0/Code.deps.json
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/bin/Debug/net6.0/Code.runtimeconfig.json
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/bin/Debug/net6.0/Code.dll
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/bin/Debug/net6.0/Code.pdb
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.csproj.AssemblyReference.cache
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.AssemblyInfoInputs.cache
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.AssemblyInfo.cs
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.csproj.CoreCompileInputs.cache
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.dll
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/refint/Code.dll
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.pdb
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/Code.genruntimeconfig.cache
+/Users/oxanarybkina/Desktop/Final_Project/Project/Code/obj/Debug/net6.0/ref/Code.dll
